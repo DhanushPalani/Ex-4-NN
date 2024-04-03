@@ -1,6 +1,6 @@
 
-<H3>DHANUSH P</H3>
-<H3>212222040034</H3>
+<H3>NAME   :DHANUSH P</H3>
+<H3>REG NO :212222040034</H3>
 <H3>EX. NO.4</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Implementation of MLP with Backpropagation for Multiclassification</H1>
